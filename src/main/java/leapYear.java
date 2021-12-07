@@ -1,6 +1,6 @@
 public class leapYear {
     public static void main(String[] args) {
-        int year = 2000;
+        int year = 2004;
     }
 
     static boolean checkYear(int year) {
